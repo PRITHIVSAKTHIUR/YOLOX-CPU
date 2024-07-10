@@ -20,8 +20,8 @@ function refresh() {
 }
 """
 # Load YOLO models
-yolo_model = YOLO("yolov8x.pt")
-pose_model = YOLO("yolov8x-pose-p6.pt")
+yolo_model = YOLO("yolov8n.pt")
+pose_model = YOLO("yolov8n-pose.pt.pt")
 names = yolo_model.model.names
 
 # Initialize Solutions
