@@ -72,7 +72,7 @@ Ultralytics dropped the YOLOv8 - #Ultralytics 8.2.51 🔥, YOLOv8 is designed to
 
 ## Working Demo Gif 3
 
-![alt text](docs/ui5.mp4)
+![alt text](docs/ui5.gif)
 
 👉🏻Official Documentation:
 Ultralytics YOLOv8 Documentation: Refer to the official YOLOv8 documentation for comprehensive guides and insights on various computer vision tasks and projects. 🔗 https://docs.ultralytics.com/ .
