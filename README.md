@@ -30,6 +30,7 @@ Space Link : https://huggingface.co/spaces/prithivMLmods/YOLOX-CPU
 🚨 New Release: Ultralytics 8.2.51
 🍺Live Space for Demo : prithivMLmods/YOLOX-CPU, Duplicate the Space to avoid queuing issues.
 
+## Sample Demo 
 ![alt text](docs/YOLO.gif)
 
 👉🏻For HPC, use A100/T4 under controlled conditions.
