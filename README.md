@@ -14,6 +14,8 @@ header: mini
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+![alt text](docs/ui.gif)
+
 Space Link : https://huggingface.co/spaces/prithivMLmods/YOLOX-CPU
     
     # Make sure you have git-lfs installed (https://git-lfs.com)
